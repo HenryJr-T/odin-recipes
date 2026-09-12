@@ -1,0 +1,1 @@
+This is a website about recipes written in HTML. With this project I'll demostrate my HTML knowledge, the basic syntax and the use of different tags to add links and images to my website.
